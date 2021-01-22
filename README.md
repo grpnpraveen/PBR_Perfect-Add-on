@@ -1,4 +1,4 @@
-# PBR_Perfect-Add-on   (for blender 2.91.2 and 2.90.1)
+# PBR_Perfect-Add-on   (for blender 2.90.1)
 Read wiki to know how to use and To install it do same as any other addon , the zip file is PBR_Perfect.zip 
 
 # UI Of the Panel
